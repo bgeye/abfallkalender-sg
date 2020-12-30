@@ -1,0 +1,16 @@
+{
+  "name": "abfall-sg-ics-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ical-generator": "^1.15.3",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
